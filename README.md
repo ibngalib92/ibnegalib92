@@ -44,10 +44,3 @@ Dhaka, Bangladesh
 
 ### `$ ./connect.sh`
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibngalib92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnegalib/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jijgalib92@gmail.com) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](ibnegalib.me)
-
-### `$ stats --user=ibngalib92`
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibngalib92&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="ibngalib92 stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibngalib92&layout=compact&theme=matrix&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=ibngalib92&theme=matrix&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
